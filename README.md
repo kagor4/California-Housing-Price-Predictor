@@ -81,4 +81,6 @@ pip install -r requirements.txt
 ## © Автор
 
 Автор: [kagor4](https://github.com/kagor4)
+
+`#linear-regression #machine-learning #housing-prices #california #data-science`  
 ```
